@@ -1,0 +1,6 @@
+{
+  "name": "QuietFind",
+  "description": "A distraction-free search engine with focus anchors, direct bite-sized answers, and a thought parking lot for easily sidetracked minds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
